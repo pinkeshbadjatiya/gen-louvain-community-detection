@@ -1,0 +1,171 @@
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = nan  p = nan
+Choosen Community: (No=3641, Size=4495)
+0.066741 percent of 1's in a | 0.088988 percent of 1's in b
+ttest_ind:            t = -0.378073  p = 0.705386
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = nan  p = nan
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = -1.41437  p = 0.157322
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = -0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = -0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = -1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = -1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = -1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = nan  p = nan
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1.41437  p = 0.157322
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = nan  p = nan
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = -0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.066741 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0.447293  p = 0.654675
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = nan  p = nan
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = -1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = nan  p = nan
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1.41437  p = 0.157322
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = -1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = -1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.000000 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = -1.41437  p = 0.157322
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = -0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.088988 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0.816709  p = 0.414119
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1  p = 0.317364
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.022247 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.044494 percent of 1's in b
+ttest_ind:            t = 0  p = 1
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 1.41437  p = 0.157322
+Choosen Community: (No=3641, Size=4495)
+0.044494 percent of 1's in a | 0.022247 percent of 1's in b
+ttest_ind:            t = 0.577393  p = 0.56369
+Choosen Community: (No=3641, Size=4495)
+0.088988 percent of 1's in a | 0.000000 percent of 1's in b
+ttest_ind:            t = 2.00067  p = 0.0454882
